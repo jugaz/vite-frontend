@@ -1,0 +1,2 @@
+# vite-frontend
+Skeleton Vite
